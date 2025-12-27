@@ -4,4 +4,4 @@ The LPK12 project investigates how computing can be integrated into K–12 STEM 
 
 [View Curriculum & Publications](./publications) 
 
-![LPK12 Logo](./assets/lpk12_logo.png)
+![LPK12 Logo](./assests/imgs/LPK12-logo.png)
