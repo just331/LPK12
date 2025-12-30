@@ -1,6 +1,5 @@
-# Curriculum & Publications
-
-## Curricula for integrating STEM and computing
+![LPK12 Logo](./assests/imgs/LPK12-logo.png)
+# Curricula for integrating STEM and computing
 * LPK12 curriculum - curriculum based on the LPK12 framework, integrating __middle school science__ and __computing__ 
   * __Chemputing__: short version (8 lessons) of  integration of chemistry and computing
     * Answer Programming-based: a modern Logic Programming paradigm, Answer Programming, is used in the curriculum.
@@ -23,6 +22,26 @@
 * [Link](https://drive.google.com/drive/folders/1rpSZK4l2wFgbn-dIowYCCIQToBvX-TxY?usp=drive_link)
 
 # Assessment Instrument
+### Student Experiments
+* [Pre-Post Contest test](https://forms.gle/BySufSYoMj7e73hh7)
+* [LPK12: Clinical interview_Exp24](https://docs.google.com/document/d/1cQbOcslcMojLl4qcpuy5vziaGP_x8A1LMpKvUB3Tchw/edit?usp=drive_link)
+* [LPK12Web_Affective domain survey spring 24](https://docs.google.com/document/d/1Sz8DXEvoyAOVh2atVLlbwn750r1R5oO6ogZ9J0YC9E0/edit?usp=drive_link)
+* [Student’s homework1.docx](https://docs.google.com/document/d/1iCd6mNh2_FJQL3uYEYcH0B0TS2k7YBkh/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [2020-ComputingTestQuestions.docx](https://docs.google.com/document/d/1tmxjMmPBsAUEJwiR8FNyDpclUw_HwIAf/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [LP-Assessment-2018](https://docs.google.com/document/d/1Ucbfy7HwV9WC-6NIrx1KMMMWFlYpgRVy11LVD4T9-p0/edit?usp=sharing)
+* [preTest-AtomStructure_LauraBush2017.docx](https://docs.google.com/document/d/1CZ_2maBVd3LlimDJZcE_5TqiYyYhj7rx/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [postTest-AtomStructure_LauraBush2017.docx](https://docs.google.com/document/d/1OkAcHnUtnFjWTtZMW0BcSwY345Hnt32b/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [post-motivationInterest-Final_LauraBush2017.docx](https://docs.google.com/document/d/1H88LqT4aJoHvFW5zs6PMxQzWxX34dyVM/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [post-LPtest_LauraBush2017](https://docs.google.com/document/d/1EM2eiuhyL6iAg36nQOJKyiZD2cX5jrJhwzOs0k4W32Q/edit?usp=sharing)
+### PDs
+* [Clinical Interview-interviewerVersion-2025.docx](https://docs.google.com/document/d/1hdecVUhLcERYE_baFvA1_dnszpb7DH6R/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [Clinical Interview-PD Fall 23.docx](https://docs.google.com/document/d/1ix0Zh3dXbRIGWM3wVqwsCMDKtCOKe_UE/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [In-Class Interview_PD23.docx](https://docs.google.com/document/d/1utUqCqAfwaVxYTQQFSopmy06MByJtmgt/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [Post-Survey-PD23.docx](https://docs.google.com/document/d/1_PW1rVQTuXA4yH7apCQPHFbEI07xdUG8/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [Pre-Survey-PD-23.docx](https://docs.google.com/document/d/1JrS9zIGKLdpHNJSNw-EwJO0YzxfLDYIY/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [Focus Group Interview PD 23.docx](https://docs.google.com/document/d/1iL0QPdRMw5qjOY46Yp5ePLFuJ-qg4vNH/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+* [PD-Summer-2019-Computing-PostTest.docx](https://docs.google.com/document/d/1aA3fjnPXwHQ-dlao768sPIpr6YzqFDeW/edit?usp=sharing&ouid=110902756038252318598&rtpof=true&sd=true)
+
 
 # Selected Publications
 #### LPK12 framework, its expansion  (CStats or LogicDS), and tools. The LPK12 framework, along with its expansion and preliminary studies, can be found in the papers listed below. The last paper discusses the development of an online programming environment for Logic Programming.
